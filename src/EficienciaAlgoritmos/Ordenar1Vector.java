@@ -1,6 +1,6 @@
 package EficienciaAlgoritmos;
 
-public class Ordenar1Vector { // ojo no implement
+public class Ordenar1Vector implements OrdenarVector {
     
     public Ordenar1Vector() {
     }

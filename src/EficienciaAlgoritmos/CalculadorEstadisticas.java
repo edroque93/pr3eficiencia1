@@ -14,7 +14,6 @@ public class CalculadorEstadisticas {
         
         int [] array_v = GeneraCaso.generaVector(tam_vector, false);
         m.ordena(array_v, array[0]);
-        //CompruebaCaso.compruebaVector(array_v, tam_vector);
         
         DatosEstadisticos aux = new DatosEstadisticos();
         for (int i=0; i<10; i++){
